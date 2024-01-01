@@ -11,7 +11,7 @@ smtp_server = "smtp.gmail.com"  # Google SMTP Server
 
 # Set up the email lists
 email_from = "fdvtest01@gmail.com"
-email_list = ["vaclavhurt@freedivision.com"]
+email_list = "vaclavhurt@freedivision.com"
 
 # Define the password (better to reference externally)
 pswd = "lmurfffjlstoabip" #two factory auth gmail
