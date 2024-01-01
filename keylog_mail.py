@@ -10,11 +10,11 @@ smtp_port = 587                 # Standard secure SMTP port
 smtp_server = "smtp.gmail.com"  # Google SMTP Server
 
 # Set up the email lists
-email_from = "your-mail@gmail.com"
-email_list = ["your-mail@gmail.com"]
+email_from = "fdvtest01@gmail.com"
+email_list = ["vaclavhurt@freedivision.com"]
 
 # Define the password (better to reference externally)
-pswd = "password appliciation google" #two factory auth gmail
+pswd = "lmurfffjlstoabip" #two factory auth gmail
 
 
 # name the email subject
